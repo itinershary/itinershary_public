@@ -1,4 +1,4 @@
-# Itinershary API
+#  Itinershary API 
 
 Welcome to the Itinershary API repository! This API allows users to create, update, and delete itineraries via HTTP requests. All actions are authenticated using a secure access token.
 
